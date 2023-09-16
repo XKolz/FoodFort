@@ -1,0 +1,14 @@
+.custom-button {
+    background-color: white;
+    border: 2px solid green;
+    color: green; /* Text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    cursor: pointer; /* Optional: Add a pointer cursor on hover */
+  }
+  
+  .custom-button:hover {
+    background-color: green;
+    color: white;
+  }
+  
