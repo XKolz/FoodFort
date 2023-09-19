@@ -12,7 +12,7 @@ const Header = (props) => {
     const auth = useAuth();
 
     return (
-        <nav className='navbar navbar-expand navbar-light bg-white py-2  sticky-top'>
+        <nav className='navbar navbar-expand navbar-light py-2  sticky-top' style={{ backgroundColor: '#F6FDF9' }}>
             <div className="container">
                 <Link to='/' className='navbar-brand'>
                     <img src={Logo} alt="Red onion logo"  />
@@ -34,7 +34,7 @@ const Header = (props) => {
                                     <img className='ml-3' src={auth.user.photoURL ? auth.user.photoURL : userPhoto} width="30px" alt=""  style={{ borderRadius: '50%' }}/>
                                 </Link>
                                 :
-                                <Link to='/signup' className='nav-link'>Login</Link>
+                                <Link to='/signup' className='nav-link'></Link>
                         }
                     </li>
 

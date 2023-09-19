@@ -56,8 +56,8 @@ const OrderComplete = (props) => {
                             transition: 'background-color 0.3s, color 0.3s' // Add transition for smooth effect
                         }}
                         onMouseOver={(e) => {
-                            e.target.style.backgroundColor = 'green'; // Change background color on hover
-                            e.target.style.color = 'white';           // Change text color on hover
+                            e.target.style.backgroundColor = '#D8F8E6'; // Change background color on hover
+                            e.target.style.color = 'green';           // Change text color on hover
                         }}
                         onMouseOut={(e) => {
                             e.target.style.backgroundColor = 'white'; // Restore background color on mouse out

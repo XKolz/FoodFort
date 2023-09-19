@@ -1,8 +1,9 @@
 .banner {
-	background-image: url('../../images/bannerbackground.png');
+	/* background-image: url('../../images/bannerbackground.png');
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center; */
+	position: relative;
 	height: 80vh;
 }
 
@@ -22,3 +23,18 @@
 	border: none;
 	padding-left: 20px;
 }
+
+.banner::before {
+	content: "";
+	background-image: url('../../images/bannerbackground.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 0.5; /* Adjust the opacity value (0.0 to 1.0) as needed */
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+  }
