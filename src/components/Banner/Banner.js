@@ -12,7 +12,7 @@ const Banner = () => {
             <div className='container'>
                 <h1 style={{color:'green', fontWeight: 'bold'}}>Nourish your body, <strong style={{color:"red"}}>delight your senses.</strong></h1>
                 <p style={{color:'', textAlign: 'center' }}>Welcome to a world of healthy, delicious, and wholesome meals. 
-                    Discover a symphony of flavors that nourish your body and delight your taste buds. 
+                    Discover a symphony of flavors that nourish your body and delight your taste buds.<br/> 
                     Explore our culinary creations that make every mealtime a celebration of wellness. 
                     Join us in the journey towards a healthier, happier you.</p>
 
