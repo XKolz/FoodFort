@@ -1,17 +1,29 @@
-![](https://red-onion-restaura.firebaseapp.com/static/media/logo2.2ce2face.png)
+![](src/images/logo.png){width=100px}
+
+![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+
 
 # FoodFort Foods
-A full-stack restaurant app where you can order your favorite food from the menu. You have options for breakfast, lunch, and dinner. Pay online using your credit card and enjoy the most delicious dummy food.
+Foodfort is your trusted companion for exploring a world of flavours without leaving your home or office, whether you're wanting comfort food, looking for a healthy option, or trying out new flavours.
 
-[Live Website](https://red-onion-online-food-946d6.web.app/) 
+[Live Website](https://foodfort.onrender.com/) 
 
 ### Features
 * Order food from the menu
-* Sign Up to place order
+* Log in or Sign Up to place order
+* Track your order
 
 ### Technology
+* HTML5
+* Javascript
 * React
 * React Router
 * Bootstrap
 * CSS3
 * Firebase Authentication
+
+### Screenshot
+
+![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+
+
