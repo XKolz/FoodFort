@@ -1,6 +1,6 @@
 <img src="src/images/logo.png" alt="Logo" width="100" height="100">
 
-![FFSshots](FFSshots/Screen Shot 2023-09-21 at 10.48.57 AM.png)
+![FFSshots](<FFSshots/Screen Shot 2023-09-21 at 10.48.57 AM.png>)
 
 
 # FoodFort Foods
