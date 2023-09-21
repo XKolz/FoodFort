@@ -1,6 +1,6 @@
-![](src/images/logo.png){width=100px}
+<img src="src/images/logo.png" alt="Logo" width="100" height="100">
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+![img](FFSshots/Screen Shot 2023-09-21 at 10.48.57 AM.png)
 
 
 # FoodFort Foods
@@ -24,6 +24,9 @@ Foodfort is your trusted companion for exploring a world of flavours without lea
 
 ### Screenshot
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+![img](FFSshots/Screen Shot 2023-09-21 at 10.49.01 AM.png)
+![img](FFSshots/Screen Shot 2023-09-21 at 12.12.36 PM.png)
+![img](FFSshots/Screen Shot 2023-09-21 at 10.51.37 AM.png)
+![img](FFSshots/Screen Shot 2023-09-21 at 10.51.33 AM.png)
 
 
