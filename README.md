@@ -24,9 +24,9 @@ Foodfort is your trusted companion for exploring a world of flavours without lea
 
 ### Screenshot
 
-![img](FFSshots/Screen Shot 2023-09-21 at 10.49.01 AM.png)
-![img](FFSshots/Screen Shot 2023-09-21 at 12.12.36 PM.png)
-![img](FFSshots/Screen Shot 2023-09-21 at 10.51.37 AM.png)
-![img](FFSshots/Screen Shot 2023-09-21 at 10.51.33 AM.png)
+![FFSshots](<FFSshots/Screen Shot 2023-09-21 at 10.49.01 AM.png>)
+![FFSshots](<FFSshots/Screen Shot 2023-09-21 at 12.12.36 PM.png>)
+![FFSshots](<FFSshots/Screen Shot 2023-09-21 at 10.51.37 AM.png>)
+![FFSshots](<FFSshots/Screen Shot 2023-09-21 at 10.51.33 AM.png>)
 
 
